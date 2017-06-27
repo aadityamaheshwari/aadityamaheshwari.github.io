@@ -1,6 +1,6 @@
 # aadityamaheshwari.github.io
 
-A Jekyll based static website by [Aaditya Maheshwari](https://aadityamaheshwari.github.io
+A Jekyll based static website by [Aaditya Maheshwari](https://aadityamaheshwari.github.io)
 
 # How to use Jekyll
 
