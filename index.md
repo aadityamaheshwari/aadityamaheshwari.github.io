@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Aaditya'
+landing-title: 'Hi, my name is Aaditya.'
 description: null
 image: null
 author: Aaditya Maheshwari

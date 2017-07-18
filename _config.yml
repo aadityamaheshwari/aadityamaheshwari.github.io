@@ -1,8 +1,8 @@
 # Site settings
 title: The Way of Life
-subtitle: Living it wild & venomous.
+subtitle:
 email: aadityamaheshwari@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: A static blog built using Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
