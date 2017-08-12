@@ -1,11 +1,11 @@
-baseURL = "https://aadityamaheshwari.github.io/Pi"
+baseURL = "https://aadityamaheshwari.github.io/"
 languageCode = "en-us"
-title = "Minimal"
+title = "Aaditya Maheshwari"
 theme = "minimal"
 
 [params]
     author = "Aaditya Maheshwari"
-    description = "Personal blog theme powered by Hugo"
+    description = "Personal blog."
     githubUsername = "aadityamaheshwari"
     accent = "green"
     showBorder = true
