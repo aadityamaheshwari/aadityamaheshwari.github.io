@@ -1,6 +1,7 @@
-baseURL = "/"
+baseURL = "https://aadityamaheshwari.github.io/"
 languageCode = "en-us"
 title = "Aaditya Maheshwari"
+publishdir = "layouts"
 # theme = "A Minimal"
 
 [params]
