@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on Aaditya Maheshwari</title>
+    <title>Hugo on Pi</title>
     <link>https://aadityamaheshwari.github.io/tags/hugo/</link>
-    <description>Recent content in Hugo on Aaditya Maheshwari</description>
+    <description>Recent content in Hugo on Pi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aadityamaheshwari.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,9 +21,20 @@
     </item>
     
     <item>
+      <title>Migrate from Jekyll</title>
+      <link>https://aadityamaheshwari.github.io/post/migrate-from-jekyll/</link>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://aadityamaheshwari.github.io/post/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
       <title>Creating a New Theme</title>
       <link>https://aadityamaheshwari.github.io/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://aadityamaheshwari.github.io/post/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
@@ -33,7 +44,7 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     <item>
       <title>Getting Started with Hugo</title>
       <link>https://aadityamaheshwari.github.io/post/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://aadityamaheshwari.github.io/post/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
@@ -42,17 +53,6 @@ More complete instructions are available at installing hugo
 Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
 Follow the following steps:
  Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>Migrate from Jekyll</title>
-      <link>https://aadityamaheshwari.github.io/post/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://aadityamaheshwari.github.io/post/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
   </channel>

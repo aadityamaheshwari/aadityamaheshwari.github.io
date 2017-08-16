@@ -1,19 +1,23 @@
 html, body {
-    height: 100%;
+  height: 100%;
 }
 
 body {
-    padding-top: 55px;
-    display: flex;
-    text-align: center;
-    flex-direction: column;
+  padding-top: 55px;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
 }
 
 main {
-    margin: auto;
-    padding: 25px;
-    flex: 1 0 auto;
-    max-width: 750px;
+  margin: auto;
+  padding: 25px;
+  flex: 1 0 auto;
+  max-width: 750px;
+}
+
+.navbar.navbar-default{
+  background-color: #F3FAB6;
 }
 
 /*footer*/
@@ -65,7 +69,16 @@ a:hover {
 /*list item for posts and projects*/
 
 .item {
-    padding: 10px 0;
+  border: 1px solid #CBE32D;
+  border-radius: 2px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  margin: 3% 0;
+  padding: 1% 1%;
+}
+
+.item:hover{
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
 
 .item-tag {

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Aaditya Maheshwari</title>
+    <title>Tags on Pi</title>
     <link>https://aadityamaheshwari.github.io/tags/</link>
-    <description>Recent content in Tags on Aaditya Maheshwari</description>
+    <description>Recent content in Tags on Pi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aadityamaheshwari.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -32,7 +32,7 @@
     <item>
       <title>Development</title>
       <link>https://aadityamaheshwari.github.io/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://aadityamaheshwari.github.io/tags/development/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Go</title>
       <link>https://aadityamaheshwari.github.io/tags/go/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://aadityamaheshwari.github.io/tags/go/</guid>
       <description></description>
@@ -50,7 +50,7 @@
     <item>
       <title>Golang</title>
       <link>https://aadityamaheshwari.github.io/tags/golang/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://aadityamaheshwari.github.io/tags/golang/</guid>
       <description></description>
@@ -77,7 +77,7 @@
     <item>
       <title>Hugo</title>
       <link>https://aadityamaheshwari.github.io/tags/hugo/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://aadityamaheshwari.github.io/tags/hugo/</guid>
       <description></description>
@@ -86,7 +86,7 @@
     <item>
       <title>Jekyll</title>
       <link>https://aadityamaheshwari.github.io/tags/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://aadityamaheshwari.github.io/tags/jekyll/</guid>
       <description></description>
@@ -113,7 +113,7 @@
     <item>
       <title>Static Site Generator</title>
       <link>https://aadityamaheshwari.github.io/tags/static-site-generator/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://aadityamaheshwari.github.io/tags/static-site-generator/</guid>
       <description></description>
@@ -131,7 +131,7 @@
     <item>
       <title>Template</title>
       <link>https://aadityamaheshwari.github.io/tags/template/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://aadityamaheshwari.github.io/tags/template/</guid>
       <description></description>
@@ -140,7 +140,7 @@
     <item>
       <title>Themes</title>
       <link>https://aadityamaheshwari.github.io/tags/themes/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://aadityamaheshwari.github.io/tags/themes/</guid>
       <description></description>
