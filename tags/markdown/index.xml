@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on Aaditya Maheshwari</title>
+    <link>https://aadityamaheshwari.github.io/tags/markdown/</link>
+    <description>Recent content in Markdown on Aaditya Maheshwari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 12:10:51 +0200</lastBuildDate>
+    
+	<atom:link href="https://aadityamaheshwari.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markdown Cheat Sheet</title>
+      <link>https://aadityamaheshwari.github.io/posts/markdown-cheat-sheet/</link>
+      <pubDate>Mon, 01 Jan 2018 12:10:51 +0200</pubDate>
+      
+      <guid>https://aadityamaheshwari.github.io/posts/markdown-cheat-sheet/</guid>
+      <description># Table of Contents 1. [Headers](#headers)2. [Text Styling](#text-styling)3. [Lists](#lists)4. [Links](#links)5. [Images](#images)6. [Code &amp;amp; Syntax Highlighting](#code-and-syntax-highlighting)7. [Tables](#tables)8. [Blockquotes](#blockquotes)9. [Inline HTML](#inline-hTML)10. [Horizontal Rule](#horizontal-rule)11. [Line Breaks](#line-breaks)12. [YouTube Videos](#youtube-videos) Table of Contents  Headers Text Styling Lists Links Images Code &amp;amp; Syntax Highlighting Tables Blockquotes Inline HTML Horizontal Rule Line Breaks YouTube Videos  # Headers # H1 ## H2 ### H3 #### H4 ##### H5 ###### H6 Headers H1 H2 H3 H4 H5 H6 # Text Styling *This text will be italic* _This will also be italic_ **This text will be bold**** __This will also be bold____ _You **can** combine them_Combined emphasis with **asterisks and _underscores_****.</description>
+    </item>
+    
+  </channel>
+</rss>

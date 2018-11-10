@@ -1,0 +1,23 @@
+User-agent: googlebot
+Disallow:
+
+User-agent: googlebot-news
+Disallow:
+
+User-agent: googlebot-image
+Disallow:
+
+User-agent: googlebot-video
+Disallow:
+
+User-agent: googlebot-mobile
+Disallow:
+
+User-agent: mediapartners-google
+Disallow:
+
+User-agent: adsbot-google
+Disallow:
+
+User-agent: *
+Disallow: /

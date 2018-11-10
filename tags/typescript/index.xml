@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Typescript on Aaditya Maheshwari</title>
+    <link>https://aadityamaheshwari.github.io/tags/typescript/</link>
+    <description>Recent content in Typescript on Aaditya Maheshwari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jan 2018 12:10:51 +0200</lastBuildDate>
+    
+	<atom:link href="https://aadityamaheshwari.github.io/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Should you learn TypeScript?</title>
+      <link>https://aadityamaheshwari.github.io/posts/typescript/</link>
+      <pubDate>Mon, 15 Jan 2018 12:10:51 +0200</pubDate>
+      
+      <guid>https://aadityamaheshwari.github.io/posts/typescript/</guid>
+      <description>What is TypeScript anyway? Should you know/learn TypeScript?
+TypeScript (TS) is a typed super-set of JavaScript (JS) which compiles to plain JavaScript. TypeScripts adds some new ECMAScript features too. The type system of TS is relatively rich and includes: interfaces, enums, hybrid types, generics, union &amp;amp; intersection types, access modifiers and much more. Check the official TS page out to learn more about TypeScript. All JS code is valid TS code.</description>
+    </item>
+    
+  </channel>
+</rss>

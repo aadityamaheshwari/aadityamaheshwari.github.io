@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Angular on Aaditya Maheshwari</title>
+    <link>https://aadityamaheshwari.github.io/tags/angular/</link>
+    <description>Recent content in Angular on Aaditya Maheshwari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Mar 2018 12:10:51 +0200</lastBuildDate>
+    
+	<atom:link href="https://aadityamaheshwari.github.io/tags/angular/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AngularJS - Live search</title>
+      <link>https://aadityamaheshwari.github.io/posts/angularjs-live-search/</link>
+      <pubDate>Mon, 12 Mar 2018 12:10:51 +0200</pubDate>
+      
+      <guid>https://aadityamaheshwari.github.io/posts/angularjs-live-search/</guid>
+      <description>I love to see web pages &amp;amp; apps with the live search feature. In fact, they are perfect for SPAs (Single Page Applications). My MovieFlix app written in MEAN has something similar. I am gonna share something very close to that here. The only difference you&amp;rsquo;ll notice is the use of scope in angular &amp;amp; where it applies i.e. change &amp;amp; filter. Also, this is not a tutorial post, so don&amp;rsquo;t expect any explanations here.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/posts/just-words/</loc>
+    <lastmod>2018-03-19T12:10:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/posts/angularjs-live-search/</loc>
+    <lastmod>2018-03-12T12:10:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/posts/games-i-play-regularly/</loc>
+    <lastmod>2018-03-05T12:10:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/posts/whats-on-my-android/</loc>
+    <lastmod>2018-02-26T12:10:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/posts/a-simple-web-server-in-go-golang/</loc>
+    <lastmod>2018-02-19T12:10:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/posts/my-favorite-vs-code-extensions/</loc>
+    <lastmod>2018-01-29T12:10:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/posts/vs-code-my-favorite-code-editor/</loc>
+    <lastmod>2018-01-22T12:10:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/posts/typescript/</loc>
+    <lastmod>2018-01-15T12:10:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/posts/json/</loc>
+    <lastmod>2018-01-08T12:10:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/posts/markdown-cheat-sheet/</loc>
+    <lastmod>2018-01-01T12:10:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/</loc>
+    <lastmod>2018-03-19T12:10:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/tags/android/</loc>
+    <lastmod>2018-02-26T12:10:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/tags/angular/</loc>
+    <lastmod>2018-03-12T12:10:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/tags/angularjs/</loc>
+    <lastmod>2018-03-12T12:10:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/tags/apps/</loc>
+    <lastmod>2018-02-26T12:10:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/tags/bale/</loc>
+    <lastmod>2018-03-19T12:10:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/tags/batman/</loc>
+    <lastmod>2018-03-19T12:10:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/tags/dark-knight/</loc>
+    <lastmod>2018-03-19T12:10:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/tags/editor/</loc>
+    <lastmod>2018-01-29T12:10:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/tags/games/</loc>
+    <lastmod>2018-03-05T12:10:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/tags/go/</loc>
+    <lastmod>2018-02-19T12:10:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/tags/golang/</loc>
+    <lastmod>2018-02-19T12:10:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/tags/hans-zimmer/</loc>
+    <lastmod>2018-03-19T12:10:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/tags/inspiration/</loc>
+    <lastmod>2018-03-19T12:10:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/tags/javascript/</loc>
+    <lastmod>2018-01-15T12:10:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/tags/json/</loc>
+    <lastmod>2018-01-08T12:10:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/tags/live-search/</loc>
+    <lastmod>2018-03-12T12:10:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/tags/markdown/</loc>
+    <lastmod>2018-01-01T12:10:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/tags/nolan/</loc>
+    <lastmod>2018-03-19T12:10:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/tags/pc/</loc>
+    <lastmod>2018-03-05T12:10:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/tags/pixel-2-xl/</loc>
+    <lastmod>2018-02-26T12:10:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/posts/</loc>
+    <lastmod>2018-03-19T12:10:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/tags/server/</loc>
+    <lastmod>2018-02-19T12:10:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/tags/</loc>
+    <lastmod>2018-02-26T12:10:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/tags/typescript/</loc>
+    <lastmod>2018-01-15T12:10:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/tags/video-games/</loc>
+    <lastmod>2018-03-05T12:10:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aadityamaheshwari.github.io/tags/vs-code/</loc>
+    <lastmod>2018-01-29T12:10:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

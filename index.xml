@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aaditya Maheshwari</title>
+    <link>https://aadityamaheshwari.github.io/</link>
+    <description>Recent content on Aaditya Maheshwari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Mar 2018 12:10:51 +0200</lastBuildDate>
+    
+	<atom:link href="https://aadityamaheshwari.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Just Words</title>
+      <link>https://aadityamaheshwari.github.io/posts/just-words/</link>
+      <pubDate>Mon, 19 Mar 2018 12:10:51 +0200</pubDate>
+      
+      <guid>https://aadityamaheshwari.github.io/posts/just-words/</guid>
+      <description>Some words, some lines. Up to you what you make of them.
+ Energy follows thought.
+Actions express priorities.
+He is able who thinks he is able.
+All humans die. But few have lived.
+Life is either a daring adventure or nothing.
+It&amp;rsquo;s not what you are underneath, it&amp;rsquo;s what you do that defines you.
+Pain &amp;amp; ecstasy come hand in hand.
+How will you use your gifts? What choices will you make?</description>
+    </item>
+    
+    <item>
+      <title>AngularJS - Live search</title>
+      <link>https://aadityamaheshwari.github.io/posts/angularjs-live-search/</link>
+      <pubDate>Mon, 12 Mar 2018 12:10:51 +0200</pubDate>
+      
+      <guid>https://aadityamaheshwari.github.io/posts/angularjs-live-search/</guid>
+      <description>I love to see web pages &amp;amp; apps with the live search feature. In fact, they are perfect for SPAs (Single Page Applications). My MovieFlix app written in MEAN has something similar. I am gonna share something very close to that here. The only difference you&amp;rsquo;ll notice is the use of scope in angular &amp;amp; where it applies i.e. change &amp;amp; filter. Also, this is not a tutorial post, so don&amp;rsquo;t expect any explanations here.</description>
+    </item>
+    
+    <item>
+      <title>Games I play regularly</title>
+      <link>https://aadityamaheshwari.github.io/posts/games-i-play-regularly/</link>
+      <pubDate>Mon, 05 Mar 2018 12:10:51 +0200</pubDate>
+      
+      <guid>https://aadityamaheshwari.github.io/posts/games-i-play-regularly/</guid>
+      <description>Following are some games (PC) that I play often &amp;amp; never get bored:
+ Counter Strike: Global Offensive (CS:GO) -&amp;gt; First-person shooter (FPS) genre
+ FIFA -&amp;gt; Sport genre
+ Fortnite Battle Royale -&amp;gt; Battle Royale genre
+ Overwatch -&amp;gt; FPS genre
+  I never get bored playing these games. They don&amp;rsquo;t have a fixed storyline or a campaign that repeats over &amp;amp; over again. All these games have great support from the companies &amp;amp; the community.</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s on my android</title>
+      <link>https://aadityamaheshwari.github.io/posts/whats-on-my-android/</link>
+      <pubDate>Mon, 26 Feb 2018 12:10:51 +0200</pubDate>
+      
+      <guid>https://aadityamaheshwari.github.io/posts/whats-on-my-android/</guid>
+      <description>I am a simple man &amp;amp; that is how I like my phone: simple! Stock android, fast, smooth, no bloatware &amp;amp; nothing fancy. Just usability, good UX, intelligent AI, assistant &amp;amp; productivity but with the ability to customize whatever whenever need be. Hence, I own a Google Pixel 2 XL. Not only Google phones run stock android but I also like the front facing stereo speakers. Not to mention the camera on the Pixel 2 XL is the best even when it is not a dual camera.</description>
+    </item>
+    
+    <item>
+      <title>A simple web server in Go (Golang)</title>
+      <link>https://aadityamaheshwari.github.io/posts/a-simple-web-server-in-go-golang/</link>
+      <pubDate>Mon, 19 Feb 2018 12:10:51 +0200</pubDate>
+      
+      <guid>https://aadityamaheshwari.github.io/posts/a-simple-web-server-in-go-golang/</guid>
+      <description>This is a simple Go web server I came across on a Github Gist &amp;amp; I liked it. So I am sharing it with everyone. I plan on using this with some modifications in my projects for its simplicity. It comes with basic logging, tracing, health check, graceful shutdown and zero dependencies.
+package main import ( &amp;#34;context&amp;#34; &amp;#34;flag&amp;#34; &amp;#34;fmt&amp;#34; &amp;#34;log&amp;#34; &amp;#34;net/http&amp;#34; &amp;#34;os&amp;#34; &amp;#34;os/signal&amp;#34; &amp;#34;sync/atomic&amp;#34; &amp;#34;time&amp;#34; ) type key int const ( requestIDKey key = 0 ) var ( listenAddr string healthy int32 ) func main() { flag.</description>
+    </item>
+    
+    <item>
+      <title>My favorite VS Code extensions</title>
+      <link>https://aadityamaheshwari.github.io/posts/my-favorite-vs-code-extensions/</link>
+      <pubDate>Mon, 29 Jan 2018 12:10:51 +0200</pubDate>
+      
+      <guid>https://aadityamaheshwari.github.io/posts/my-favorite-vs-code-extensions/</guid>
+      <description>VS Code is great code editor which has some awesome basic features without the need of extensions/plugins than most of the other code editors. Yet there are some extensions that I like using with VS Code to accelerate my productivity, make the editor look even more awesome &amp;amp; linting etc.
+ Better HAML - For Ruby on Rails projects that use HAML. I prefer HAML over html.erb because it is much cleaner &amp;amp; easier to read.</description>
+    </item>
+    
+    <item>
+      <title>Visual Studio Code - My favorite code editor</title>
+      <link>https://aadityamaheshwari.github.io/posts/vs-code-my-favorite-code-editor/</link>
+      <pubDate>Mon, 22 Jan 2018 12:10:51 +0200</pubDate>
+      
+      <guid>https://aadityamaheshwari.github.io/posts/vs-code-my-favorite-code-editor/</guid>
+      <description>Everything below about VS Code are my opinions &amp;amp; all about personal preference.
+Yes! Visual Studio Code (VS Code) is my favorite &amp;amp; to go code editor. I have used Sublime Text &amp;amp; Atom too. I was great fan of Atom until I used VS Code. I have been using VS Code for almost a year now. I recently did give Atom (Version 1.23.3) a try again but there was still a huge performance difference when compared to VS Code.</description>
+    </item>
+    
+    <item>
+      <title>Should you learn TypeScript?</title>
+      <link>https://aadityamaheshwari.github.io/posts/typescript/</link>
+      <pubDate>Mon, 15 Jan 2018 12:10:51 +0200</pubDate>
+      
+      <guid>https://aadityamaheshwari.github.io/posts/typescript/</guid>
+      <description>What is TypeScript anyway? Should you know/learn TypeScript?
+TypeScript (TS) is a typed super-set of JavaScript (JS) which compiles to plain JavaScript. TypeScripts adds some new ECMAScript features too. The type system of TS is relatively rich and includes: interfaces, enums, hybrid types, generics, union &amp;amp; intersection types, access modifiers and much more. Check the official TS page out to learn more about TypeScript. All JS code is valid TS code.</description>
+    </item>
+    
+    <item>
+      <title>JSON cheat sheet</title>
+      <link>https://aadityamaheshwari.github.io/posts/json/</link>
+      <pubDate>Mon, 08 Jan 2018 12:10:51 +0200</pubDate>
+      
+      <guid>https://aadityamaheshwari.github.io/posts/json/</guid>
+      <description>JSON (Javascript Object notation) is a syntax &amp;amp; a standard for storing &amp;amp; exchanging data, specifically between the server &amp;amp; the client (like a browser or the front-end). JSON is &amp;ldquo;self-defined&amp;rdquo; or say &amp;ldquo;self-described&amp;rdquo;. It is easy to understand &amp;amp; learn. The JSON format was first specified by Douglas Crockford. It was extended from the Javascript scripting language. JSON is language independent.
+Every JSON file has the extension .json &amp;amp; the internet media type/Multipurpose Internet Mail Extensions (MIME) type is application/json while the uniform type identifier is public.</description>
+    </item>
+    
+    <item>
+      <title>Markdown Cheat Sheet</title>
+      <link>https://aadityamaheshwari.github.io/posts/markdown-cheat-sheet/</link>
+      <pubDate>Mon, 01 Jan 2018 12:10:51 +0200</pubDate>
+      
+      <guid>https://aadityamaheshwari.github.io/posts/markdown-cheat-sheet/</guid>
+      <description># Table of Contents 1. [Headers](#headers)2. [Text Styling](#text-styling)3. [Lists](#lists)4. [Links](#links)5. [Images](#images)6. [Code &amp;amp; Syntax Highlighting](#code-and-syntax-highlighting)7. [Tables](#tables)8. [Blockquotes](#blockquotes)9. [Inline HTML](#inline-hTML)10. [Horizontal Rule](#horizontal-rule)11. [Line Breaks](#line-breaks)12. [YouTube Videos](#youtube-videos) Table of Contents  Headers Text Styling Lists Links Images Code &amp;amp; Syntax Highlighting Tables Blockquotes Inline HTML Horizontal Rule Line Breaks YouTube Videos  # Headers # H1 ## H2 ### H3 #### H4 ##### H5 ###### H6 Headers H1 H2 H3 H4 H5 H6 # Text Styling *This text will be italic* _This will also be italic_ **This text will be bold**** __This will also be bold____ _You **can** combine them_Combined emphasis with **asterisks and _underscores_****.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://aadityamaheshwari.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aadityamaheshwari.github.io/about/</guid>
+      <description>I’m your host, Aaditya Maheshwari (a.k.a Aadi) 😄, responsible for just about everything on this site. This is my blog, where I rant about software development, technology, gadgets &amp;amp; the Internet. Its content &amp;amp; opinions are my own (otherwise linked/referenced). I&amp;rsquo;m excited about community, social equity, media, entrepreneurship and above all, the open web.
+For my day job, I’m a Software Engineer (Full Stack). I don&amp;rsquo;t have a favorite or to-go language.</description>
+    </item>
+    
+  </channel>
+</rss>
