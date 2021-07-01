@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/aadi_keybase
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://aadityamaheshwari.github.io
+  * I am aadi_keybase (https://keybase.io/aadi_keybase) on keybase.
+  * I have a public key ASDlDCyd8ND3vRZi0zVA1UqDUgVpQb6EYbDCQ9D7e1A9iwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e50c2c9df0d0f7bd1662d33540d54a8352056941be8461b0c243d0fb7b503d8b0a",
+      "host": "keybase.io",
+      "kid": "0120e50c2c9df0d0f7bd1662d33540d54a8352056941be8461b0c243d0fb7b503d8b0a",
+      "uid": "50885ddd47d3d2220023d5336d0f3919",
+      "username": "aadi_keybase"
+    },
+    "merkle_root": {
+      "ctime": 1625102797,
+      "hash": "bd4d1c9a1ee2d079872f5d46af6b6593cad2196b37fc2e1472a2d443bda654f5ef3480a509dc31677dc642820ec8a14b850adb769f4e097c0aeb875f047e8fdb",
+      "hash_meta": "434f74703467727dcce01f1688a7fabad13d742c5caf7cc1981cc451ce887586",
+      "seqno": 20289314
+    },
+    "service": {
+      "entropy": "mHF54SEqK1KG9zZh5DZ2DNSh",
+      "hostname": "aadityamaheshwari.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.7.0"
+  },
+  "ctime": 1625102875,
+  "expire_in": 504576000,
+  "prev": "4eddf763c28a0e37baa90b277d8ef0f4abc9ea0ddf8426d7bb29469e849aecdd",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg5QwsnfDQ970WYtM1QNVKg1IFaUG+hGGwwkPQ+3tQPYsKp3BheWxvYWTESpcCEsQgTt33Y8KKDje6qQsnfY7w9KvJ6g3fhCbXuylGnoSa7N3EIIi/kCGLGY1rEnud2KCbMXPAH/rGdwYuhlM6WTf90BAdAgHCo3NpZ8RAX5CEE5V+47YHVQOx+X6/e2dzh5ON+zX6JPlux1bclaZv5+eEOJ0O3JbVbbuwOgqmn53wBApqzdE6wFO4y7x6DqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIGZiXuDF22oXOnqZUONaPb3fiqIiVucsHIjirKqpjcOo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aadi_keybase
+
+==================================================================
