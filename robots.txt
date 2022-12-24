@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aadityamaheshwari.github.io/sitemap.xml
